@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+    <plugin name="TwitterPlugin" value="com.phonegap.plugins.twitter-plugin"/>
+    
+</plugins>
+
